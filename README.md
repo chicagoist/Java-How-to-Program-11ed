@@ -1,7 +1,7 @@
 # Java How to Program /11 edition
 Java How to Program, 11/e,  Early Objects provides a clear, simple, engaging and entertaining introduction to Java, preparing college students to meet the Java programming challenges they’ll encounter in upper-level courses and in industry.
 
-<a href="https://images-na.ssl-images-amazon.com/images/I/415zqVKcRIL._SX379_BO1,204,203,200_.jpg" target="_blank">Java How to Program, 11/e, Early Objects Version</a>
+![Cover image for Java How to Program](http://deitel.com/bookresources/jhtp11/jhtp11_300h.png)
 
 At the heart of the book is the Deitel signature live-code approach—we present most concepts in the context of hundreds of complete working programs that have been tested on Windows, macOS and Linux. 
 
