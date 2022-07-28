@@ -1,0 +1,5 @@
+/examples/
+/.idea/
+.idea
+*.xml
+*.iml
