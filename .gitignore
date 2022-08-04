@@ -3,5 +3,8 @@
 .idea
 *.xml
 *.iml
-
+*.class
+out/
+/out/
+*.fxml
 ###
