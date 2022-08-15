@@ -1,6 +1,7 @@
 // Fig. 26.5: Painter.java
 // Main application class that loads and displays the Painter's GUI.
 // zulu1.8sdk
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
