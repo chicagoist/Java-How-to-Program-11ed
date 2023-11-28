@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="WelcomeRESTJSONClient">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/examples/ch32/WelcomeRESTJSONClient/dist/WelcomeRESTJSONClient.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
