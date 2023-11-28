@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/appE/appE.iml" filepath="$PROJECT_DIR$/examples/appE/appE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/appK/appK.iml" filepath="$PROJECT_DIR$/examples/appK/appK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/appL/appL.iml" filepath="$PROJECT_DIR$/examples/appL/appL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch01/ch01.iml" filepath="$PROJECT_DIR$/examples/ch01/ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch02/ch02.iml" filepath="$PROJECT_DIR$/examples/ch02/ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch03/ch03.iml" filepath="$PROJECT_DIR$/examples/ch03/ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch04/ch04.iml" filepath="$PROJECT_DIR$/examples/ch04/ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch05/ch05.iml" filepath="$PROJECT_DIR$/examples/ch05/ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch06/ch06.iml" filepath="$PROJECT_DIR$/examples/ch06/ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch07/ch07.iml" filepath="$PROJECT_DIR$/examples/ch07/ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch08/ch08.iml" filepath="$PROJECT_DIR$/examples/ch08/ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch09/ch09.iml" filepath="$PROJECT_DIR$/examples/ch09/ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch10/Fig10_01/src/ch10_Fig10_01.iml" filepath="$PROJECT_DIR$/examples/ch10/Fig10_01/src/ch10_Fig10_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch10/Fig10_04_09/ch10_Fig10_04_09.iml" filepath="$PROJECT_DIR$/examples/ch10/Fig10_04_09/ch10_Fig10_04_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch10/Fig10_11_14/ch10_Fig10_11_14.iml" filepath="$PROJECT_DIR$/examples/ch10/Fig10_11_14/ch10_Fig10_11_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch11/ch11.iml" filepath="$PROJECT_DIR$/examples/ch11/ch11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch12/ch12.iml" filepath="$PROJECT_DIR$/examples/ch12/ch12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch13/ColorChooser/ch13_ColorChooser.iml" filepath="$PROJECT_DIR$/examples/ch13/ColorChooser/ch13_ColorChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch13/CoverViewer/ch13_CoverViewer.iml" filepath="$PROJECT_DIR$/examples/ch13/CoverViewer/ch13_CoverViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch13/CoverViewerCustomListView/ch13_CoverViewerCustomListView.iml" filepath="$PROJECT_DIR$/examples/ch13/CoverViewerCustomListView/ch13_CoverViewerCustomListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch13/Painter/ch13_Painter.iml" filepath="$PROJECT_DIR$/examples/ch13/Painter/ch13_Painter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch14/ch14.iml" filepath="$PROJECT_DIR$/examples/ch14/ch14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch15/ch15.iml" filepath="$PROJECT_DIR$/examples/ch15/ch15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch16/ch16.iml" filepath="$PROJECT_DIR$/examples/ch16/ch16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch17/ch17.iml" filepath="$PROJECT_DIR$/examples/ch17/ch17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ch18/ch18.iml" filepath="$PROJECT_DIR$/examples/ch18/ch18.iml" />
+    </modules>
+  </component>
+</project>
