@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/appE" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch13" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch34" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/ch13/Painter/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/ch13/Painter/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

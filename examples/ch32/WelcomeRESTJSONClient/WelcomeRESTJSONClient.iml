@@ -7,10 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="gson-2.7" level="project" />
-    <orderEntry type="library" name="gson-2.73" level="project" />
     <orderEntry type="library" name="gson-2.74" level="project" />
-    <orderEntry type="library" name="gson-2.71" level="project" />
+    <orderEntry type="library" name="gson-2.7" level="project" />
     <orderEntry type="library" name="gson-2.72" level="project" />
+    <orderEntry type="library" name="gson-2.73" level="project" />
+    <orderEntry type="library" name="gson-2.71" level="project" />
   </component>
 </module>

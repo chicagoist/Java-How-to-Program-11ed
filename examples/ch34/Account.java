@@ -1,4 +1,4 @@
-// appE.Account.java
+// Account.java
 // Represents a bank account
 
 public class Account {
@@ -7,7 +7,7 @@ public class Account {
    private double availableBalance; // funds available for withdrawal
    private double totalBalance; // funds available + pending deposits
 
-   // appE.Account constructor initializes attributes
+   // Account constructor initializes attributes
    public Account(int theAccountNumber, int thePIN, 
       double theAvailableBalance, double theTotalBalance) {
       accountNumber = theAccountNumber;
@@ -16,7 +16,7 @@ public class Account {
       totalBalance = theTotalBalance;
    }
 
-   // determines whether a user-specified PIN matches PIN in appE.Account
+   // determines whether a user-specified PIN matches PIN in Account
    public boolean validatePIN(int userPIN) {
       if (userPIN == pin) {
          return true;

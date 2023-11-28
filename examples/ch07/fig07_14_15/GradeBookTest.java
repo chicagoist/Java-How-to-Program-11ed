@@ -1,5 +1,5 @@
-// Fig. 7.15: ch07.fig07_18_19.GradeBookTest.java
-// ch07.fig07_18_19.GradeBookTest creates a GradeBook object using an array of grades,
+// Fig. 7.15: GradeBookTest.java
+// GradeBookTest creates a GradeBook object using an array of grades, 
 // then invokes method processGrades to analyze them.
 public class GradeBookTest {
    public static void main(String[] args) {

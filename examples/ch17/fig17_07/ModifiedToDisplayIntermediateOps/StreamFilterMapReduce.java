@@ -1,4 +1,3 @@
-package ModifiedToDisplayIntermediateOps;
 // Fig. 17.7: StreamFilterMapReduce.java
 // Triple the even ints from 2 through 10 then sum them with IntStream.
 import java.util.stream.IntStream;

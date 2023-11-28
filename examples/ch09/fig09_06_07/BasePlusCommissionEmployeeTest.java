@@ -1,4 +1,4 @@
-// Fig. 9.7: ch09.fig09_09.ch09.fig09_11.BasePlusCommissionEmployeeTest.java
+// Fig. 9.7: BasePlusCommissionEmployeeTest.java
 // BasePlusCommissionEmployee test program.
 
 public class BasePlusCommissionEmployeeTest {

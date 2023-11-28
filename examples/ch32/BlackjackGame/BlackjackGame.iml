@@ -7,10 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="BlackjackGame" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="module" module-name="generated1" />
-    <orderEntry type="module" module-name="Blackjack" />
     <orderEntry type="module" module-name="generated-sources" />
+    <orderEntry type="module" module-name="Blackjack" />
   </component>
 </module>
